@@ -13,7 +13,7 @@
   "dependencies": {
     "nipplejs": "^0.8.5",
     "vue": "^2.5.2",
-    "vuetify": "^2.3.1"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
